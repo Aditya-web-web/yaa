@@ -1,0 +1,123 @@
+#contentcollapsed{
+    margin: 100px 20px 10px 110px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#contentcollapsed div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+}
+
+#contentcollapsed div img{
+    height: 340px;
+    width: 454px;
+}
+
+#contentcollapsed div div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#contentcollapsed div #img2{
+    margin-top: 10px;
+    height: 33px;
+    width: 33px;
+}
+
+#contentcollapsed div div div{
+    display: flex;
+    flex-direction: column;
+    margin-left: -40px;
+}
+
+#contentcollapsed div b{
+    font-size: 14px;
+    width: 360px;
+    margin-top: 10px;
+}
+
+#contentcollapsed div p{
+    font-size: 12px;
+
+}
+
+#contentcollapsed #p1{
+    margin-top: 6px;
+    opacity: 0.7;
+}
+
+#contentcollapsed #p2{
+    margin-top: -6px;
+    opacity: 0.7;
+}
+
+#contentcollapsed i{
+    margin-top: 11px;
+}
+
+/* EXPANDED */
+
+#contentexpanded{
+    margin: 100px 20px 10px 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#contentexpanded div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+}
+
+#contentexpanded div #img1{
+    height: 330px;
+    width: 407px;
+}
+
+#contentexpanded div div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#contentexpanded div #img2{
+    margin-top: 10px;
+    height: 33px;
+    width: 33px;
+}
+
+#contentexpanded div div div{
+    display: flex;
+    flex-direction: column;
+    margin-left: -10px;
+}
+
+#contentexpanded div b{
+    font-size: 14px;
+    width: 340px;
+    margin-top: 10px;
+}
+
+#contentexpanded div p{
+    font-size: 12px;
+}
+
+#contentexpanded #p1{
+    margin-top: 6px;
+    opacity: 0.7;
+}
+
+#contentexpanded #p2{
+    margin-top: -6px;
+    opacity: 0.7;
+}
+
+#contentexpanded i{
+    margin-top: 11px;
+
+}
